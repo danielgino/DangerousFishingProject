@@ -48,7 +48,7 @@ public class Constants {
         public static final int BONUS_FISH_SPAWN_TIME = 35000;
         public static final int SHARK_SPAWN_TIME = 25000;
         public static final int PUFFER_FISH_SPAWN_TIME = 10000;
-        public static final int OCEAN_SHARK_START_HEIGHT = 233;
+        public static final int OCEAN_SHARK_START_HEIGHT = 244;
         public static final int OCEAN_FISHES_START_UPPER_LIMIT = 285;
         public static final int OCEAN_END_BOTTOM_LIMIT = 600;
         public static final int FISHES_WHO_START_FROM_RIGHT = 1200;
