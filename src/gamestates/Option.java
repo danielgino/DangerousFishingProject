@@ -42,7 +42,7 @@ public class Option extends BasePanel {
         });
 
         this.add(soundButton);
-        JButton highScoresButton = new JButton("HIGH-SCORES");
+        JButton highScoresButton = new JButton("SCOREBOARD");
         highScoresButton.setFont(font);
         highScoresButton.setForeground(Color.BLACK);
         highScoresButton.setBackground(Color.WHITE);
