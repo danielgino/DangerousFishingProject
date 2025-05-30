@@ -1,12 +1,12 @@
 # 🎮 Dangerous Fishing - Fishing Game
 
-A fun fishing-themed Java game featuring enemies, bonus fish, lives, and interactive game states like menus and instructions.
+A fun fishing-themed Java game featuring enemies, bonus fish, lives, and interactive game states like menus and instructions and scoreboard.
 
 ## 🚀 How to Run
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/fish-game.git](https://github.com/danielgino/DangerousFishingProject.git)
+   git clone https://github.com/danielgino/DangerousFishingProject.git
    cd DangerousFishingProject
    Run the MainClass.java file located in src/main/MainClass.java.
 
