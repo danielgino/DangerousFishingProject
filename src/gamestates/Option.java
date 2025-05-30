@@ -76,14 +76,18 @@ public class Option extends BasePanel {
         this.add(title);
     }
 
-    @Override
-    protected void drawCustomImages(Graphics g) {
-        int[] sharkPositions = {1, 2, 3, 3, 3}; // מערך שמכיל את המקדמים לכפל ה-FISH_X
+@Override
+protected void drawCustomImages(Graphics g) {
+    Point[] sharkPositions = {
+            new Point(200, 150),
+            new Point(450, 150),
+            new Point(650, 150),
+            new Point(900, 150)
+    };
 
-        for (int i = 0; i < sharkPositions.length; i++) {
-            int xOffset = (i < 3) ? -30 : 170 + (i - 3) * 200;
-            int xPosition = (FISH_X * sharkPositions[i]) + xOffset;
-            g.drawImage(sharkImage, xPosition, FISH_Y + 70, FISH_WIDTH + 100, FISH_HEIGHT, null);
-        }
+    for (Point pos : sharkPositions) {
+        g.drawImage(sharkImage, pos.x, pos.y, FISH_WIDTH + 100, FISH_HEIGHT + 25, null);
     }
+}
+
 }

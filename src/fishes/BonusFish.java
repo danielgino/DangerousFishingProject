@@ -36,7 +36,7 @@ public class BonusFish extends Fish {
         return super.setCaught(isCaught);
     }
     public Rectangle getBonusBounds() {
-        return new Rectangle(x, y + 35, 25, 30);
+        return new Rectangle(x, y + 88, 25, 30);
 
     }
     public void moveRight() {
@@ -47,7 +47,8 @@ public class BonusFish extends Fish {
     }
     @Override
     public void paintComponent(Graphics g) {
+        //g.setColor(Color.RED);//for checks
         g.drawImage(this.bonusImage, x, y, this);
-        g.drawRect(x, y + 35, 25, 30);
+        g.drawRect(x, y + 88, 25, 30);
     }
 }

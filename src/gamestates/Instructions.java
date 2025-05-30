@@ -66,8 +66,8 @@ public class Instructions extends BasePanel {
     @Override
     protected void drawCustomImages(Graphics g) {
         g.drawImage(yellowFish, FISH_X, FISH_Y + 30, FISH_WIDTH + 20, FISH_HEIGHT + 40, null);
-        g.drawImage(bonusFish, (FISH_X * 2) + 50, FISH_Y + 60, FISH_WIDTH + 20, FISH_HEIGHT - 18, null);
-        g.drawImage(sharkImage, (FISH_X * 3) + 100, FISH_Y + 45, FISH_WIDTH + 100, FISH_HEIGHT, null);
+        g.drawImage(bonusFish, (FISH_X * 2) + 50, FISH_Y + 40, FISH_WIDTH + 20, FISH_HEIGHT +25, null);
+        g.drawImage(sharkImage, (FISH_X * 3) + 100, FISH_Y + 30, FISH_WIDTH + 100, FISH_HEIGHT+25, null);
         g.drawImage(pufferFishImage, (FISH_X * 5), FISH_Y + 45, FISH_WIDTH - 4, FISH_HEIGHT, null);
     }
 }

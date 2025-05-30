@@ -59,6 +59,8 @@ public class Fish extends JPanel {
     public void paintComponent(Graphics g) {
         super.paintComponent(g);
         g.drawImage(fishImage, x, y, null);
+
+        //g.setColor(Color.RED);//for checks
         g.drawRect(x + 115, y + 70, headBox.width, headBox.height);
         g.setColor(new Color(255, 255, 255, 0));
     }

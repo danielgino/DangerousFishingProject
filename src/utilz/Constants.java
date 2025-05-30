@@ -100,7 +100,7 @@ public class Constants {
         public static final String FOR_INSTRUCTION_WINDOW = "Dangerous Fishing";
         public static final String GAME_OVER_TEXT = "|GAME OVER|";
         public static final String TITLE_TEXT_OPTION = "Developed By:";
-        public static final String UNDER_TITLE_TEXT = "Daniel Gino, Yakov Ben-Hemo, Shay Ozer";
+        public static final String UNDER_TITLE_TEXT = "Daniel Gino, Yakov Ben-Hemo";
         public static final String TITLE_TEXT = "Welcome to Dangerous Fishing!";
         public static final String INSTRUCTIONS_TEXT = """
                 in this game currently you can catch two type of fish:  

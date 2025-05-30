@@ -127,7 +127,7 @@ public class GamePanel extends JPanel {
             if (checkCollisionWithBonus(currentBonusFish, rod) && !this.getInBag)
                 currentBonusFish.setCaught(true);
             if (currentBonusFish.isCaught() && !this.getInBag)
-                currentBonusFish.setPosition(rod.getHookX() - currentBonusFish.getX() / 20, rod.getHookY() - currentBonusFish.getY() / 25);
+                currentBonusFish.setPosition(rod.getHookX() - currentBonusFish.getX() / 6, rod.getHookY() - currentBonusFish.getY() / 10);
         }
     }
 

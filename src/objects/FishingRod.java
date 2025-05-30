@@ -44,7 +44,7 @@ public class FishingRod extends JPanel {
 
     public void paint(Graphics graphics) {
         graphics.drawImage(hookPhoto,ROD_X - 11 , ROD_Y - 55 + lineLength - HOOK_DIAMETER / 2, this);
-        graphics.drawLine(ROD_X,ROD_Y-50,ROD_X,ROD_Y+lineLength-50);
+        graphics.drawLine(ROD_X,ROD_Y-70,ROD_X,ROD_Y+lineLength-50);
         graphics.setColor(new Color(255, 255, 255, 0)); //המלבן של החכה שקוף
         graphics.drawRect(getHookX() + 5, getHookY() - 650, 1, 650);
     }

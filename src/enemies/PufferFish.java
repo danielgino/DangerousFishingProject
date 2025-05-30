@@ -27,6 +27,7 @@ public class PufferFish extends Enemy implements EnemiesMethods {
     @Override
     public void paintComponent(Graphics graphics) {
         super.paintComponent(graphics);
+        //g.setColor(Color.RED);//for checks
         graphics.drawImage(pufferFishImage, getX(), getY(), this);
         graphics.drawRect(getX() + 10, getY() + 17, HEIGHT_DEFAULT - 5, HEIGHT_DEFAULT - 10);
     }
