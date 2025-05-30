@@ -1,5 +1,6 @@
 # 🎮 Dangerous Fishing - Fishing Game
 > 🎓 This project was created as part of my first year studying Computer Science.
+> 
 A fun fishing-themed Java game featuring enemies, bonus fish, lives, and interactive game states like menus and instructions and scoreboard.
 
 ## 🚀 How to Run
