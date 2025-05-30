@@ -10,9 +10,10 @@ A fun fishing-themed Java game featuring enemies, bonus fish, lives, and interac
    cd DangerousFishingProject
    Run the MainClass.java file located in src/main/MainClass.java.
 
- ### 📂Project Structure
+### 📂 Project Structure
 
-   src/
+```plaintext
+src/
 ├── audio/               # Sound effects and background music
 ├── enemies/             # Enemy classes (e.g. Shark, PufferFish)
 │   ├── Enemy.java
@@ -40,7 +41,7 @@ A fun fishing-themed Java game featuring enemies, bonus fish, lives, and interac
 │   └── KeyboardListener.java
 └── utilz/               # Utility classes and constants
     └── Constants.java
-    
+
 # Instructions 
 # Welcome to Dangerous Fishing!🐟
 In this game, you can currently catch two types of fish:
