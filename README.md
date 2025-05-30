@@ -74,13 +74,18 @@ Then press SPACE BAR to reel it in and earn the points.
 Once the fish disappears after pressing SPACE BAR, the point is added to your score.
 
 # Pictures from game
+## Main Menu
 ![צילום מסך 2025-05-30 224218](https://github.com/user-attachments/assets/336815e9-dd33-4d18-83ac-22a9948e5a08)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/336815e9-dd33-4d18-83ac-22a9948e5a08" alt="opening Image" width="700"/>
-</p>
+## General Picture
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7e957d08-13d9-4ab9-9fc2-608bd3a7d2cf" alt="Shark Image" width="700"/>
-</p>
+![צילום מסך 2025-05-30 223803](https://github.com/user-attachments/assets/2505be94-2232-4586-bb7d-2bb97591e989)
+## Top Bar
 
+
+![צילום מסך 2025-05-30 223846](https://github.com/user-attachments/assets/0e82e9fe-b092-49b8-a2f9-36be2020d968)
+## Instructions 
+![צילום מסך 2025-05-30 224117](https://github.com/user-attachments/assets/94e69e14-4e6e-4517-b660-bd7066a57399)
+## Options + Scoreboard
+
+![צילום מסך 2025-05-30 232550](https://github.com/user-attachments/assets/e47c0ba8-a3d0-45f9-911a-2ba9cbdef2ac)
