@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb1f71ae-2206-4f82-8169-678a6386285a" alt="Bonus Fish" width="500"/>
+</p>
+
 # 🎮 Dangerous Fishing - Fishing Game
 > 🎓 This project was created as part of my first year studying Computer Science.
 > 
