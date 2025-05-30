@@ -28,7 +28,7 @@ src/
 │   ├── BasePanel.java
 │   ├── Instructions.java
 │   └── Option.java
-├── images/              # Image assets (if used)
+├── images/              # Image assets 
 ├── level/               # Game level management
 │   └── Levels.java
 ├── main/                # Core game logic and startup
@@ -36,7 +36,7 @@ src/
 │   ├── GameWindow.java
 │   ├── MainClass.java
 │   └── MainMenu.java
-├── objects/             # Game objects (e.g. fishing rod, hearts)
+├── objects/             # Game objects 
 │   ├── FishingRod.java
 │   ├── Heart.java
 │   └── KeyboardListener.java
