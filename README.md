@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fb1f71ae-2206-4f82-8169-678a6386285a" alt="Bonus Fish" width="500"/>
+  <img src="https://github.com/user-attachments/assets/fb1f71ae-2206-4f82-8169-678a6386285a" alt="Bonus Fish" width="400"/>
 </p>
 
 # 🎮 Dangerous Fishing - Fishing Game
